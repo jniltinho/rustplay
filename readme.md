@@ -1,5 +1,13 @@
 # rustplay
 
+## Compile
+
+```
+git clone https://github.com/jniltinho/rustplay.git
+cd rustplay
+cargo build --release
+```
+
 Run Rust code through [Rust Playground](https://play.rust-lang.org/).
 
 ```sh
